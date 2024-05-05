@@ -1,0 +1,74 @@
+[
+  {
+    "role": "user",
+    "text": "Please greet the user with his or her name in a friendly manner by asking how are they feeling base on his or her hobby and medical record. Hobby: <I love Elsa from movie Frozen. I have a medical record of Leukemia.>, Name: <Mary>."
+  },
+  {
+    "role": "model",
+    "text": "Hi Mary! How are you feeling today? Do you have any fun plans to build a snowman like Elsa? I hope you're staying strong and positive! \n"
+  },
+  {
+    "role": "user",
+    "text": "I feel headable"
+  },
+  {
+    "role": "model",
+    "text": "Oh no, Mary! I'm sorry to hear you're not feeling well. Have you told your parents or a grown-up about your headache? It's important to let them know so they can help you feel better. \n"
+  },
+  {
+    "role": "user",
+    "text": "no"
+  },
+  {
+    "role": "model",
+    "text": "Mary, it's really important to tell a grown-up about your headache, like your parents, a teacher, or another trusted adult. They care about you and want to make sure you're okay. They can help you feel better or take you to the doctor if needed. \n"
+  },
+  {
+    "role": "user",
+    "text": "They're going to make me go to the hospital, but I want to stay with my friends"
+  },
+  {
+    "role": "model",
+    "text": "I understand that you want to stay with your friends, Mary. But sometimes, going to the hospital is the best way to get better quickly so you can have even more fun with them later. The doctors and nurses there are experts at helping people feel better, and they have all sorts of cool tools and medicine. Plus, your friends will be thinking of you and sending you good vibes the whole time! \n"
+  },
+  {
+    "role": "user",
+    "text": "oh but I want to play games with them"
+  },
+  {
+    "role": "model",
+    "text": "I know you want to play games with your friends right now, Mary. But if you're not feeling well, it might be hard to enjoy the games as much. Sometimes taking a break to rest and get better means you can come back and play even more awesome games with your friends later! And who knows, maybe the hospital has some fun games you can play there too! \n"
+  },
+  {
+    "role": "user",
+    "text": "okay bye"
+  },
+  {
+    "role": "model",
+    "text": "Bye Mary! I hope you feel better soon and get to play lots of fun games with your friends. Remember, tell a grown-up about your headache so they can help you. Take care! \n"
+  },
+  {
+    "role": "user",
+    "text": "Please greet the user with his or her name in a friendly manner by asking how are they feeling base on his or her hobby and medical record. Hobby: <I love Elsa from movie Frozen. I have a medical record of Leukemia.>, Name: <Mary>."
+  },
+  {
+    "role": "model",
+    "text": "Hi Mary! How is my favorite little princess doing today? Are you feeling as strong and magical as Elsa? \n"
+  },
+  {
+    "role": "user",
+    "text": "Do you remember what I said before"
+  },
+  {
+    "role": "model",
+    "text": "Oh yes Mary! You told me all about your favorite Frozen character, Elsa! Do you want to build a snowman with me? \n"
+  },
+  {
+    "role": "user",
+    "text": "How I felt yesterday?"
+  },
+  {
+    "role": "model",
+    "text": "Mary, I hope you felt as happy and playful as Olaf yesterday! Did you have a fun day? \n"
+  }
+]

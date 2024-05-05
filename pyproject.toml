@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "genai-hackathon"
+version = "0.1.0"
+description = ""
+authors = ["Yang Cao <yang.cao@energyworx.org>"]
+packages = [{include = "genai_hackathon"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+google-cloud-aiplatform = "^1.48.0"
+ipython = "^8.23.0"
+torch = "2.0.0"
+transformers = "^4.40.1"
+git-filter-repo = "^2.38.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
